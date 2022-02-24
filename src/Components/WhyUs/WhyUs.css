@@ -1,0 +1,130 @@
+.why-us-bg {
+  background: #fec72f;
+}
+.prospecting-div {
+  border: 10px solid #fec72f;
+  border-radius: 35px;
+  margin: 70px 0px;
+}
+.circle-tik, .circle-square {
+  margin-left: -50px;
+  display: flex;
+  align-items: center;
+}
+.circle-key, .circle-shild {
+  margin-right: -50px;
+  display: flex;
+  align-items: center;
+}
+.prospecting-child{
+    display: flex;
+    align-items: center;
+}
+@media only screen and (max-width: 767px) {
+  .circle-tik {
+    content: "";
+    position: absolute;
+    top: 1820px;
+    padding-left: 50px;
+  }
+  .circle-square{
+    content: "";
+    position: absolute;
+    top: 2700px;
+    padding-left: 50px;
+  }
+  .circle-key{
+    content: "";
+    position: absolute;
+    top: 2260px;
+    padding-right: 50px;
+  }
+  .circle-shild{
+    content: "";
+    position: absolute;
+    top: 3140px;
+    padding-right: 50px;
+  }
+  .prospecting-child{
+      padding-top: 70px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .circle-tik {
+    content: "";
+    position: absolute;
+    top: 1980px;
+    padding-left: 50px;
+  }
+  .circle-square{
+    content: "";
+    position: absolute;
+    top: 2860px;
+    padding-left: 50px;
+  }
+  .circle-key{
+    content: "";
+    position: absolute;
+    top: 2420px;
+    padding-right: 50px;
+  }
+  .circle-shild{
+    content: "";
+    position: absolute;
+    top: 3320px;
+    padding-right: 50px;
+  }
+  
+}
+@media only screen and (max-width: 375px) {
+  .circle-tik {
+    content: "";
+    position: absolute;
+    top: 2040px;
+    padding-left: 50px;
+  }
+  .circle-square{
+    content: "";
+    position: absolute;
+    top: 3000px;
+    padding-left: 50px;
+  }
+   .circle-key{
+    content: "";
+    position: absolute;
+    top: 2530px;
+    padding-right: 50px;
+  }
+  .circle-shild{
+    content: "";
+    position: absolute;
+    top: 3460px;
+    padding-right: 50px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .circle-tik {
+    content: "";
+    position: absolute;
+    top: 2060px;
+    padding-left: 50px;
+  }
+  .circle-square{
+    content: "";
+    position: absolute;
+    top: 3060px;
+    padding-left: 50px;
+  }
+  .circle-key{
+    content: "";
+    position: absolute;
+    top: 2570px;
+    padding-right: 50px;
+  }
+  .circle-shild{
+    content: "";
+    position: absolute;
+    top: 3550px;
+    padding-right: 50px;
+  }
+}

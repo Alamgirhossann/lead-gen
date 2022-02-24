@@ -1,0 +1,31 @@
+.next-arrow {
+  height: 20px;
+}
+.author-img {
+  border-radius: 50%;
+  height: 100px;
+  margin: 50px 0px;
+}
+.book-btn {
+  border: 1px solid black;
+  outline: none;
+  padding: 10px 15px;
+  background: white;
+  border-radius: 5px;
+}
+.book-btn:hover {
+  padding: 10px 15px;
+  background: black;
+  color: white;
+}
+.booking-card {
+  border-bottom: 10px solid black;
+  background: #ffffff;
+  box-shadow: inset 0px 0px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+.booking-card h4{
+    font-weight: 600;
+}

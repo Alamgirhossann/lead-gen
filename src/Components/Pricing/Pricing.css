@@ -1,0 +1,46 @@
+.spend-credit {
+  border: 2px dashed #fec72f;
+  padding: 40px;
+  border-radius: 20px;
+}
+.credit-head {
+  background: #fec72f;
+  border-radius: 50px;
+  text-align: center;
+  padding: 10px 15px;
+}
+.credit-head p {
+  margin: 0;
+}
+.category {
+  border: 1px solid #fec72f;
+  border-radius: 20px;
+  height: auto;
+}
+.heading {
+  background: #fec72f;
+  border-radius: 20px 20px 0 0;
+  text-align: center;
+  padding: 10px 15px;
+}
+.border-under {
+  border-bottom: 0.5px dashed #fec72f;
+  text-align: center;
+}
+.buy-btn {
+  background: #50331c;
+  border-radius: 0px 0px 20px 20px;
+  text-align: center;
+  padding: 10px 15px;
+  color: white;
+  width: 100%;
+  border: none;
+  outline: none;
+}
+.title span {
+  background-image: url("../../images/Rectangle\ 615.png");
+  background-repeat: no-repeat;
+  background-position: 100% 80%;
+  background-origin: content-box;
+  background-size: contain;
+}
